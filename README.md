@@ -50,7 +50,7 @@ Infrastructure, application, and CI/CD working together as one system.
 
 ## 📫 Connect
 - GitHub: https://github.com/heinzawhtoo
-- LinkedIn: *(add when ready)*
+- LinkedIn: https://www.linkedin.com/in/hein-zaw-htoo/
 
 ---
 
